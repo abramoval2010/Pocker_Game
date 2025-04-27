@@ -1,0 +1,28 @@
+
+***Start blackjack game***
+___player’s bet: 5 chips
+___player's start hand ['2-spades', '9-diamonds']
+___dealer's start hand ['A-hearts']
+DEALER'S MOVE: hit
+___player’s bet: 5 chips
+___player's start hand ['2-spades', '9-diamonds']
+___dealer's start hand ['A-hearts', 'J-hearts']
+PLAYER'S MOVE: double down
+___player’s bet: 10 chips
+___player's start hand ['2-spades', '9-diamonds', '3-clubs']
+___dealer's start hand ['A-hearts', 'J-hearts']
+DEALER'S MOVE: stand
+___player’s bet: 10 chips
+___player's start hand ['2-spades', '9-diamonds', '3-clubs']
+___dealer's start hand ['A-hearts', 'J-hearts']
+PLAYER'S MOVE: hit
+___player’s bet: 10 chips
+___player's start hand ['2-spades', '9-diamonds', '3-clubs', 'Q-hearts']
+___dealer's start hand ['A-hearts', 'J-hearts']
+
+***Game finish***
+RESULTS:
+___player: 24  (bust)
+___dealer: 21  (blackjack)
+___Player lost
+
